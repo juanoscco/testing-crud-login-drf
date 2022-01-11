@@ -55,16 +55,20 @@ and then run the command
 ### This is the page
 [![Captura.png](https://i.postimg.cc/PJnsfL7T/Captura.png)](https://postimg.cc/KkfsJYFH)
 
+## Sign in, Sign up and authentication token
 Get started by creating an account
+
 [![1.png](https://i.postimg.cc/WbVPZ7Xs/1.png)](https://postimg.cc/G9XNwGWf)
 
 [![2.png](https://i.postimg.cc/jdhY4JFP/2.png)](https://postimg.cc/QHVzXVsd)
 
 Then login with login
+
 [![3.png](https://i.postimg.cc/XYHXNv9S/3.png)](https://postimg.cc/PCDd2T62)
 
 ![4](https://user-images.githubusercontent.com/58866695/148983878-8338d2a9-bf39-4bac-b243-ed6533e0ec23.PNG)
 
 Then authenticate
+
 ![5](https://user-images.githubusercontent.com/58866695/148984055-155c937c-f706-4595-9211-de279ab1289a.PNG)
 
