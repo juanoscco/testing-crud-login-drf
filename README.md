@@ -52,5 +52,5 @@ and then run the command
 ```
 
 
-### this is tha page
+### this is the page
 [![Captura.png](https://i.postimg.cc/MK9XvdKH/Captura.png)](https://postimg.cc/dLTJfRCc)
