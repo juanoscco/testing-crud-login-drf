@@ -2,23 +2,23 @@
 Creation of an application in django on music albums
 
 ## Before
-before you must verify that you have the latest python version downloaded
+Before you must verify that you have the latest python version downloaded
 
 # Start
-in your terminal
+In your terminal
 first create a virtual environment
 ```sh
 python -m venv env
 ```
-in windows
+In windows
 ```sh
 env\Scripts\activate.bat
 ```
-in Unix o MacOS run
+In Unix o MacOS run
 ```sh
 source env\Scripts\activate.bat
 ```
-run the command
+Run the command
 ```sh
 pip install -r requirements.txt
 ```
