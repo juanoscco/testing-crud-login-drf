@@ -50,3 +50,7 @@ and then run the command
 ```sh
   python manage.py runserver
 ```
+
+
+### this is tha page
+[![Captura.png](https://i.postimg.cc/MK9XvdKH/Captura.png)](https://postimg.cc/dLTJfRCc)
