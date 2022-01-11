@@ -50,7 +50,12 @@ and then run the command
 ```sh
   python manage.py runserver
 ```
+You can see the good practices that I do
+running the command:
 
+```sh
+  python manage.py test
+```
 
 ### This is the page
 ![Captura](https://user-images.githubusercontent.com/58866695/148984889-830df87e-2aad-4e4c-b2b7-73c56aa59844.PNG)
@@ -117,6 +122,7 @@ you only need to do this.
 ![15](https://user-images.githubusercontent.com/58866695/148986009-795388ae-6f2e-4b65-b26f-9c3340f3d87e.PNG)
 
 then press logout
+
 ![16](https://user-images.githubusercontent.com/58866695/148986193-503be5d3-7810-49da-9c86-1a1cd5c1ef77.PNG)
 
 
