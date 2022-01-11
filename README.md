@@ -55,7 +55,7 @@ and then run the command
 ### This is the page
 [![Captura.png](https://i.postimg.cc/PJnsfL7T/Captura.png)](https://postimg.cc/KkfsJYFH)
 
-## Sign in, Sign up and authentication token
+# Sign in, Sign up and authentication token
 Get started by creating an account
 
 [![1.png](https://i.postimg.cc/WbVPZ7Xs/1.png)](https://postimg.cc/G9XNwGWf)
