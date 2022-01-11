@@ -4,7 +4,7 @@ Creation of an application in django on music albums
 ## Before
 before you must verify that you have the latest python version downloaded
 
-# Starting
+# Start
 in your terminal
 first create a virtual environment
 ```sh
