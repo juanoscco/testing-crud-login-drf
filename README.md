@@ -12,11 +12,11 @@ python -m venv env
 ```
 In windows
 ```sh
-env\Scripts\activate.bat
+env\Scripts\activate
 ```
 In Unix o MacOS run
 ```sh
-source env\Scripts\activate.bat
+source env\Scripts\activate
 ```
 Run the command
 ```sh
